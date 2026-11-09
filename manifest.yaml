@@ -55,7 +55,7 @@ app:
   # tells you the repository name.
   id: hack.devops_public
   name: DevOps Public Test
-  version: 0.1.0
+  version: 0.1.1
   publisher: DevOps
   # One or two sentences, written for someone deciding whether to install it.
   # Say what it does and what it sends anywhere. Never use the word "by" — the
